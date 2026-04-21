@@ -1,0 +1,25 @@
+{
+  "name": "@vaporlogicgp/vite-build-reporter",
+  "version": "0.9.2",
+  "description": "Vite plugin that generates detailed build reports and bundle analytics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaporlogic/vite-build-reporter.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "vite",
+    "plugin",
+    "build",
+    "bundle",
+    "reporter"
+  ],
+  "author": "vite-plugins-community",
+  "license": "MIT",
+  "peerDependencies": {
+    "vite": ">=4.0.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
